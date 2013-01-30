@@ -1,0 +1,1 @@
+to get nginx to use a document root of /root/... must chmod 755 /root
